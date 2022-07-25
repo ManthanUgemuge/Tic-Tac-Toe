@@ -10,7 +10,7 @@ Play Tic Tac Toe Game just it compile and run.
 ## How to use Project
 - Download or clone the repository Website : 
 ```
-https://github.com/ManthanUgemuge/Tictactoe.git
+https://github.com/ManthanUgemuge/Tic-Tac-Toe.git
 ```
 
 ## Contributing
