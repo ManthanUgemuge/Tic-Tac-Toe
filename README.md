@@ -1,5 +1,5 @@
 # Tic Tac Toe
-Tic Tac Toe Game in C++. 
+Tic Tac Toe Game in C++ . 
 
 ## About the Project
 Play Tic Tac Toe Game. Just compile and run.
